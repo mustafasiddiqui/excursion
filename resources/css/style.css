@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42;
+  font-weight: 300;
+}
